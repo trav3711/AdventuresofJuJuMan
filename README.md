@@ -1,3 +1,3 @@
 # AdventuresofJuJuMan
 
-A game by Travis, written in Java.
+A game by Travis
